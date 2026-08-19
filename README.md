@@ -17,6 +17,7 @@
 
  <h3 align="left">
 🎓 Estudante de Ciência da Computação
+
    
 🧠 Combino visão operacional e logística com engenharia de software para construir soluções eficientes, organizadas e escaláveis.
 
