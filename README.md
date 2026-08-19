@@ -22,7 +22,7 @@
 
 🛠️ Experiência prática com testes funcionais de qualidade em equipamentos tecnológicos (Lenovo), automação com Python, conteinerização com Docker e pipelines de CI/CD via GitHub Actions</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">Analise Rápida</h3>**
 
 - 💼 Atualmente trabalhando em: **💻 Analista de Logística na Technotrans (ERP e SAP)**
 - 🌱 Atualmente aprendendo: **📚 Python e POO**
